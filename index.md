@@ -30,9 +30,7 @@ Transfer BTC into this account. You will need to send BTC to your newly created 
 
 All transactions on CP have a small BTC tx fee (like eth gas).
 
-Link to Timestamp Video:
-
-[https://youtu.be/DSStSe8LOHo](https://youtu.be/DSStSe8LOHo)
+[Link to Timestamp Video](https://youtu.be/DSStSe8LOHo)
 
 
 ## Buy XCP from a Dispenser
@@ -71,9 +69,7 @@ You could send 0.00025890 BTC to get 1 XCP, or you could send 0.0005178 BTC, and
 
 A dispenser is like a vending machine; put BTC in and get what it is dispensing back. 
 
-Link to Timestamp Video:
-
-https://youtu.be/DSStSe8LOHo?t=132
+[Link to Timestamp Video](https://youtu.be/DSStSe8LOHo?t=132)
 
 
 ## Create Named Token
@@ -102,9 +98,7 @@ Fee: Can leave default; higher fee could make it mint faster.
 
 Select "Create Token"
 
-Link to Timestamp Video:
-
-https://youtu.be/DSStSe8LOHo?t=314
+[Link to Timestamp Video](https://youtu.be/DSStSe8LOHo?t=314)
 
  
 ## Upload Art to EasyAsset
@@ -149,9 +143,7 @@ The process may take up to 30 seconds; click the button only once.
 
 When the form has been submitted, copy the JSON file path and have it handy for the next section, "Update Token Description"
 
-Link to Timestamp Video:
-
-https://youtu.be/DSStSe8LOHo?t=425
+[Link to Timestamp Video](https://youtu.be/DSStSe8LOHo?t=425)
 
 
 ## Update Token Description
@@ -172,9 +164,7 @@ Paste in the JSON link you got from EasyAsset in the description field.
 
 Click "Change Description"
 
-Link to Timestamp Video:
-
-https://youtu.be/DSStSe8LOHo?t=669
+[Link to Timestamp Video](https://youtu.be/DSStSe8LOHo?t=669)
 
 
 ## Increase Supply
@@ -208,9 +198,7 @@ Right-click the newly created Token and select "Lock *TOKENNAME* Supply". You ca
 
 Agree and click "Lock Token Supply" ** this is irreversible **
 
-Link to Timestamp Video:
-
-https://youtu.be/DSStSe8LOHo?t=859
+[Link to Timestamp Video](https://youtu.be/DSStSe8LOHo?t=859)
 
 
 ## Submit To Directories
@@ -230,11 +218,38 @@ NFT Media Asset:
 Your ASSET IMAGE can be a varying size if needed, 800×1120, 600×840, etc. Or MP4 via your JSON file that you created with EasyAsset
 
 
-**Fake Rares**
+## Fake Rares
 
 Directory is closed for submission at the moment.
 
 
-**Dank**
+## Dank
 
-You will need to burn a DANKMEMECASH card to be able to submit it to the Dank Directory. At the moment, this cost about USD 123 from the cheapest Dispenser. However, if you ask around, you might be able to get one for free. If not, just factor this as a promotional cost to have your work listed on the directory.
+
+**Step 1:**
+
+Got to https://dankdirectory.wordpress.com/
+
+Click the Submit Button
+
+**Step 2:**
+
+Fill out the form.
+
+Artist: Your Artist Name
+
+Transaction Hash: tx link showing you burned/destroyed Dank Meme Cash
+
+Image Link: Link to the Listing page image that is 400×560
+
+Email: You contact email
+
+Asset Link: Link to xchain of the Token you created
+
+[Link to Walkthru Video](https://youtu.be/qEpHFn0Z2RQ)
+
+
+**Note**
+You will need to burn a DANKMEMECASH card to be able to submit it to the Dank Directory. At the moment, this cost about USD 100 from the cheapest Dispenser. However, if you ask around, you might be able to get one for free. If not, just factor this as a promotional cost to have your work listed on the directory.
+
+
