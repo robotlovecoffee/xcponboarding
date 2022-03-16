@@ -49,11 +49,11 @@ It will cost 0.5 XCP for your first Token, and I would recommend getting 2 XPC t
 
 **Step 1:**
 
-> Click on a dispenser link from [https://robotlovecoffee.io/xcp](https://robotlovecoffee.io/xcp)
+Click on a dispenser link from [https://robotlovecoffee.io/xcp](https://robotlovecoffee.io/xcp)
 
 **Step 2:**
 
-> Send BTC to the Dispenser address for the price displayed or multiples of the price for more.
+Send BTC to the Dispenser address for the price displayed or multiples of the price for more.
 
 **For Example:**
 
@@ -107,8 +107,6 @@ Link to Timestamp Video:
 https://youtu.be/DSStSe8LOHo?t=314
 
  
-
-
 ## Upload Art to EasyAsset
 
 This step will upload your art asset files for your Token to Arweave. This step will make them permanently stored on a blockchain.
