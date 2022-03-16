@@ -1,3 +1,5 @@
+# Creator: Onboarding to XCP Freewallet Desktop
+
 Below are all the steps to create a Counterparty (CP) wallet, fund the wallet and create your first Token on CP. The Token could then be submitted to Fake Rares or Dank directories or sold directly to your collectors via a Dispenser.
 
 All examples use the desktop version of Freewallet that requires downloading and installing software. You can find the correct download for your OS here: [https://freewallet.io/](https://freewallet.io/)
